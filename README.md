@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on my Harvard CS50 Certification<br>🌱 I’m currently learning about Robotics  and Cybersecurity<br>💬 Ask me about Operating Systems<br>
+🔭 I’m currently working on my Dissertation<br>🌱 I’m currently learning Natural Language Processing<br>💬 Ask me about Operating Systems<br>
 
 
 ## 🌐 Socials:
