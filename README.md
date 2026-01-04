@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on my Dissertation<br>🌱 I’m currently learning Natural Language Processing<br>💬 Ask me about Operating Systems<br>
+🔭 I’m currently working on my Masters Degree & Industry Experience<br>🌱 I’m currently learning best Software & Software Enginering Practices as well as Product & Project Management<br>💬 Ask me about Operating Systems<br>
 
 
 ## 🌐 Socials:
