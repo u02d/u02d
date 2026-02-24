@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on my Masters Degree & Industry Experience<br>🌱 I’m currently learning best Software & Software Enginering Practices as well as Product & Project Management<br>💬 Ask me about Operating Systems<br>
+🔭 I’m currently working on my Masters Degree & Industry Experience<br>🌱 I’m currently learning Interactive Hardware & 3D Printing <br>💬 Ask me about Operating Systems<br>
 
 
 ## 🌐 Socials:
@@ -18,3 +18,5 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=u02d&icon=2&color=12)](https://visitcount.itsvg.in)
+
+![Stats](./profile/stats.svg)
