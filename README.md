@@ -9,11 +9,8 @@
         <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" />
       </a>
       <img src="https://visitor-badge.laobi.icu/badge?page_id=u02d.u02d" height="25" />
-<br><br>
 
 <h2 align="left">💻 Tech Stack:</h2>
-
-<br>
 
 <table>
   <tr>
@@ -83,20 +80,5 @@
   </tr>
 </table>
 
-<br/>
-
 <h2 align="left">📊 GitHub Stats:</h2>
-<table>
-  <tr>
-    <td width="50%" align="center">
-      <img src="https://streak-stats.demolab.com?user=u02d&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="220"/>
-    </td>
-    <td width="50%" align="center">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/u02d/u02d/output/pacman-contribution-graph-dark.svg">
-        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/u02d/u02d/output/pacman-contribution-graph.svg">
-        <img src="https://raw.githubusercontent.com/u02d/u02d/output/pacman-contribution-graph.svg" height="220" />
-      </picture>
-    </td>
-  </tr>
-</table>
+<img src="https://streak-stats.demolab.com?user=u02d&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="220"/>
