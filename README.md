@@ -37,7 +37,7 @@
 ---
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=u02d&theme=flat&no-frame=true&no-bg=true&margin-w=4)
+![](https://github-profile-trophy-fork-two.vercel.app/?username=u02d&theme=flat&no-frame=true&no-bg=true&margin-w=4)
 
 ---
 
