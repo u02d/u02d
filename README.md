@@ -29,10 +29,10 @@
 # 📊 GitHub Stats:
 
 <!-- Main stats card -->
-![](https://github-readme-stats-mu-ashen-q1f8nq6gcl.vercel.app/api?username=u02d&theme=react&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-stats-e38lyclx4-dominic-uris-projects.vercel.app/api?username=u02d&theme=react&hide_border=false&include_all_commits=true&count_private=true)
 
 <!-- Top languages -->
-![](https://github-readme-stats-mu-ashen-q1f8nq6gcl.vercel.app/api/top-langs/?username=u02d&theme=react&hide_border=false&layout=compact&count_private=true)
+![](https://github-readme-stats-e38lyclx4-dominic-uris-projects.vercel.app//api/top-langs/?username=u02d&theme=react&hide_border=false&layout=compact&count_private=true)
 
 ---
 
