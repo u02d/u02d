@@ -1,5 +1,5 @@
 
-<h3>💫 About Me:</h3>
+<h2 align="left">💫 About Me:</h2>
 
 🔭 I’m currently working on my Masters Degree & Industry Experience<br>
 🌱 I’m currently learning Interactive Hardware & 3D Printing<br>
