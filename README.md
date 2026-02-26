@@ -1,33 +1,24 @@
-<div align="left" style="display:flex; align-items:center; justify-content:space-between; gap:16px; flex-wrap:wrap;">
-  <h1 style="margin:0;">💫 About Me:</h1>
 
-  <div style="display:flex; align-items:center; gap:10px; flex-wrap:wrap;">
-    <a href="https://www.linkedin.com/in/dominic-uri/" target="_blank">
-      <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge"
-           height="25" alt="linkedin logo" />
-    </a>
+<h3>💫 About Me:</h3>
 
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=u02d.u02d&"
-         height="25" alt="views badge" />
-  </div>
-</div>
+🔭 I’m currently working on my Masters Degree & Industry Experience<br>
+🌱 I’m currently learning Interactive Hardware & 3D Printing<br>
+💬 Ask me about Operating Systems
 
-<br/>
-
-<p align="left">
-  🔭 I’m currently working on my Masters Degree & Industry Experience<br>
-  🌱 I’m currently learning Interactive Hardware & 3D Printing<br>
-  💬 Ask me about Operating Systems
-</p>
-
-<br/>
+<a href="https://www.linkedin.com/in/dominic-uri/" target="_blank">
+        <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" />
+      </a>
+      <img src="https://visitor-badge.laobi.icu/badge?page_id=u02d.u02d" height="25" />
+<br><br>
 
 <h2 align="left">💻 Tech Stack:</h2>
 
+<br>
+
 <table>
   <tr>
-    <td valign="top" width="190">
-      <h3 align="left" style="margin:0;">⚙️ Languages</h3>
+    <td valign="top">
+      <h3 align="left" style="margin:0; width:200px">⚙️ Languages</h3>
     </td>
     <td valign="top">
       <div align="left" style="display:flex; flex-wrap:wrap; gap:12px; align-items:center;">
@@ -43,8 +34,8 @@
   </tr>
 
   <tr>
-    <td valign="top" width="190">
-      <h3 align="left" style="margin:0;">🌩️ Cloud & Frameworks</h3>
+    <td valign="top" width="300">
+      <h3 align="left" style="margin:0; width:200px">🌩️ Cloud & Frameworks</h3>
     </td>
     <td valign="top">
       <div align="left" style="display:flex; flex-wrap:wrap; gap:12px; align-items:center;">
@@ -62,8 +53,8 @@
   </tr>
 
   <tr>
-    <td valign="top" width="190">
-      <h3 align="left" style="margin:0;">💾 Databases</h3>
+    <td valign="top" width="300">
+      <h3 align="left" style="margin:0; width:200px">💾 Databases</h3>
     </td>
     <td valign="top">
       <div align="left" style="display:flex; flex-wrap:wrap; gap:12px; align-items:center;">
@@ -75,8 +66,8 @@
   </tr>
 
   <tr>
-    <td valign="top" width="190">
-      <h3 align="left" style="margin:0;">🕹️ Other</h3>
+    <td valign="top" width="300">
+      <h3 align="left" style="margin:0; width:200px">🕹️ Other</h3>
     </td>
     <td valign="top">
       <div align="left" style="display:flex; flex-wrap:wrap; gap:12px; align-items:center;">
@@ -95,20 +86,16 @@
 <br/>
 
 <h2 align="left">📊 GitHub Stats:</h2>
-
-
 <table>
   <tr>
-    <td width="50%" align="center" valign="top">
-      <img src="https://streak-stats.demolab.com?user=u02d&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5"
-           height="220" alt="streak graph" />
+    <td width="50%" align="center">
+      <img src="https://streak-stats.demolab.com?user=u02d&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="220"/>
     </td>
-
-    <td width="50%" align="center" valign="top">
+    <td width="50%" align="center">
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/u02d/u02d/output/pacman-contribution-graph-dark.svg">
         <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/u02d/u02d/output/pacman-contribution-graph.svg">
-        <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/u02d/u02d/output/pacman-contribution-graph.svg" height="220">
+        <img src="https://raw.githubusercontent.com/u02d/u02d/output/pacman-contribution-graph.svg" height="220" />
       </picture>
     </td>
   </tr>
